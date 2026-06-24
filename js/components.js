@@ -133,10 +133,10 @@ function buildChrome() {
           <h5>Contact</h5>
           <p>龍馬生技 Ryoma Biotechnology</p>
           <p>新北市土城區自強街 8 號</p>
-          """
+         /*
           <a href="tel:+886227800227">+886 2 2780 0227</a>
           <a href="mailto:hello@ryoma.bio">hello@ryoma.bio</a>
-          """
+         */
         </div>
       </div>
       <div class="footer__bottom">
