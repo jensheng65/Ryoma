@@ -86,12 +86,13 @@ function buildChrome() {
         ${PAGES.map(p => `<a class="nav__link ${p.key===active?'active':''}" href="${p.href}">${p.label}</a>`).join("")}
       </nav>
       <div class="nav__cta">
-        <button class="nav__lang" type="button">中 / EN</button>
         <a class="btn btn--gold" href="contact.html">Book Assessment ${ICON.arrow}</a>
         <button class="nav__burger" aria-label="Menu"><span></span><span></span><span></span></button>
       </div>
     </div>`;
   document.body.prepend(nav);
+
+  /* <button class="nav__lang" type="button">中 / EN</button> */
 
   /* mobile menu */
   const mm = document.createElement("div");
