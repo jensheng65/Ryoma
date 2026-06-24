@@ -131,10 +131,12 @@ function buildChrome() {
         </div>
         <div class="footer__col">
           <h5>Contact</h5>
-          <p>寰愛診所 Acrobios Clinic</p>
-          <p>台北市松山區健康路 152 號 8 樓</p>
+          <p>龍馬生技 Ryoma Biotechnology</p>
+          <p>新北市土城區自強街 8 號</p>
+          """
           <a href="tel:+886227800227">+886 2 2780 0227</a>
           <a href="mailto:hello@ryoma.bio">hello@ryoma.bio</a>
+          """
         </div>
       </div>
       <div class="footer__bottom">
